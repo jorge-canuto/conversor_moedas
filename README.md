@@ -1,16 +1,18 @@
-# conversor
+# Conversor de Moedas
 
-A new Flutter application.
+## Features
+- Conversão de Real para Euro
+- Conversão de Real para Dólar
+- Conversão de Euro para Real
+- Conversão de Euro para Dólar
+- Conversão de Dólar para Real
+- Conversão de Dólar para Euro
 
-## Getting Started
+## Screens
+   <img src="https://github.com/jorge-canuto/conversor_moedas/blob/master/images/tela_conversor_1.jpeg" height="1000" width="700">
 
-This project is a starting point for a Flutter application.
+## License
 
-A few resources to get you started if this is your first Flutter project:
+MIT
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Free Software**
