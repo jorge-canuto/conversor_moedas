@@ -9,7 +9,7 @@
 - Conversão de Dólar para Euro
 
 ## Screens
-   <img src="https://github.com/jorge-canuto/conversor_moedas/blob/master/images/tela_conversor_1.jpeg" height="1000" width="700">
+   <img src="https://github.com/jorge-canuto/conversor_moedas/blob/master/images/tela_conversor_1.jpeg" height="400" width="800">
 
 ## License
 
