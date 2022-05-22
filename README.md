@@ -1,4 +1,5 @@
 # Conversor de Moedas
+O aplicativo conversor de moedas funciona utilizando a API HG Finance para obter a cotação atual das moedas e realizar as conversões.
 
 ## Features
 - Conversão de Real para Euro
